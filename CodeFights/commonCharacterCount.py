@@ -1,4 +1,4 @@
-'''DESCRIPTION: 
+'''DESCRIPTION:
 Given two strings, find the number of common characters between them.
 
 Example
@@ -8,6 +8,7 @@ commonCharacterCount(s1, s2) = 3.
 
 Strings have 3 common characters - 2 "a"s and 1 "c".
 '''
+
 
 def commonCharacterCount(s1, s2):
     total = 0
@@ -21,5 +22,5 @@ def commonCharacterCount(s1, s2):
             else:
                 total += s2.count(char)
                 checked += char
-                
+
     return total
