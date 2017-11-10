@@ -14,4 +14,5 @@ _note: Don't just copy and paste the code found here just for the sake of passin
    - [run_length_encoding](Exercism/run_length_encoding.py)
    - [rotational_cipher](Exercism/rotational_cipher.py)
    - [difference_of_squares](Exercism/difference_of_squares.py)
+   - [parallel_letter_frequency](Exercism/parallel_letter_frequency.py)
  
